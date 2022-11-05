@@ -1,0 +1,3 @@
+
+LogoB.png es el logo en azul 
+LogoW.png es el logo en blango 
