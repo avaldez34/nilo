@@ -2,3 +2,8 @@
 
 Tipografía logo: Century Gothic bold
 
+Link para tipografías, iconos etc.
+https://fonts.google.com/?query=Gothic&preview.text=NILO&preview.text_type=custom
+
+Link para Codigos de color
+https://htmlcolorcodes.com/es/
