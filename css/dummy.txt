@@ -1,0 +1,5 @@
+
+
+Tipografía logo: Century Gothic bold
+
+colores: (255,255,255)
