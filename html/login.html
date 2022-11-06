@@ -1,20 +1,27 @@
 <!DOCTYPE html>
 <HEAD> 
     <TITLE> NILO </TITLE>
-    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="style.css" />
+
 </HEAD>
 
-<BODY style="background-color: #455668">
+<BODY>
 
-    <p class="textop" > HOLAAAA </p>
-
-    <DIV ID="login" class="login"></DIV>
+    <DIV ID="login" class="text-align center"></DIV>
         <FORM ACTION="login.php" METHOD="POST">
 
-            <div> <img src="img/LOGO NILO/LogoW.png" width="100" height="100"/> </div>
-            <div><INPUT TYPE="text" NAME="username" PLACEHOLDER="Username"></div>
-            <div><INPUT TYPE="password" NAME="password" PLACEHOLDER="Password"></div>
-            <div><button class="botonSubmit" >Login</button></div>
+            <div class="logo"> 
+                <tr>
+                    <th><img src="LOGO NILO/LogoW.png" width="100" height="100"/></th>
+                    <th><p > NILO </p></th>
+                </tr>
+            </div>
+
+            <div class="login">
+                <div><INPUT TYPE="text" NAME="username" PLACEHOLDER="Username"></div>
+                <div><INPUT TYPE="password" NAME="password" PLACEHOLDER="Password"></div>
+                <div><button class="botonSubmit">Login</button></div>
+            </div>
 
         </FORM>
     </DIV>
